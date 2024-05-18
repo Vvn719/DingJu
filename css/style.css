@@ -1023,3 +1023,21 @@ table td a i {
 #corporate .table3 td ul.list-style-d li::marker {
   color: #0a88ce;
 }
+
+.img_pc {
+  display: block;
+}
+
+.img_mb {
+  display: none;
+}
+
+@media (max-width: 992px) {
+  .img_mb {
+    display: block;
+  }
+
+  .img_pc {
+    display: none;
+  }
+}
