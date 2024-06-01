@@ -691,6 +691,7 @@
 }
 #contact .info {
   color: #283d50;
+  word-wrap: break-word;
 }
 #contact .info i {
   font-size: 32px;
@@ -811,6 +812,16 @@
 
 .footer .footer-item a:hover {
   letter-spacing: 2px;
+}
+
+.ft_copyright {
+  text-align: center;
+}
+
+.ft_copyright a,
+.ft_copyright small {
+  color: #ffffff9c;
+  font-size: 0.8rem;
 }
 
 @media (max-width: 768px) {

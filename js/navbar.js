@@ -17,7 +17,7 @@ document.writeln("                            <a href='fee.html' class='dropdown
 document.writeln("                            <!-- <a href='blog.html' class='dropdown-item'>機構特色</a> -->")
 document.writeln('                        </div>')
 document.writeln('                    </div>')
-document.writeln("                    <a id='nav_04' href='https://www.facebook.com/profile.php?id=100069498739743&ref=embed_page'")
+document.writeln("                    <a id='nav_04' href='https://www.facebook.com/profile.php?id=61560097402670'")
 document.writeln("                        class='nav-item nav-link' target='_blank'>最新消息</a>")
 document.writeln("                    <a id='nav_05' href='contact.html' class='nav-item nav-link'>探訪須知</a>")
 document.writeln("                    <a id='nav_06' href='info.html' class='nav-item nav-link'>入住流程</a>")
