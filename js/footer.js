@@ -104,7 +104,7 @@ document.writeln("                        <a><i class='bi bi-telephone-fill me-2
 document.writeln('                    </div>')
 document.writeln('                </div>')
 document.writeln("                <div class='ft_copyright m-auto'>")
-document.writeln("                    <span><a href='../privacy.html'>隱私權政策　</a>")
+document.writeln("                    <span><a href='./privacy.html'>隱私權政策　</a>")
 document.writeln('                    </span>')
 document.writeln('                    <span>')
 document.writeln('                        <small>© Copyright 2024')
