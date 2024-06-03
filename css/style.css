@@ -1052,3 +1052,12 @@ table td a i {
     display: none;
   }
 }
+
+.card-link {
+  display: block;
+  text-decoration: none; /* 移除連結的下劃線 */
+  color: inherit; /* 確保文字顏色不變 */
+}
+.card-link:hover .service-item {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2); /* 增加hover效果 */
+}
