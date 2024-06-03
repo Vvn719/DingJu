@@ -843,6 +843,10 @@
   .logo {
     padding: 0%;
   }
+
+  .ft_item_noEN {
+    margin-top: -32px !important;
+  }
 }
 
 /*** Footer End ***/
