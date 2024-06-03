@@ -86,7 +86,7 @@ document.writeln("    <div class='container-fluid footer py-2 wow fadeIn text-wh
 document.writeln("        <div class='container '>")
 document.writeln("            <div class='row g-5'>")
 document.writeln("                <div class='col-12 col-md-4 py-2'>")
-document.writeln("                    <div class='footer-item d-flex flex-column'>")
+document.writeln("                    <div class='footer-item d-flex flex-column mt-3'>")
 document.writeln("                        <img class='logo' src='./img/logo-01-02.png' alt=''>")
 document.writeln('')
 document.writeln('                    </div>')
